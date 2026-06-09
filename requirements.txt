@@ -1,0 +1,6 @@
+tensorflow==2.21.0
+librosa==0.11.0
+soundfile==0.13.1
+scikit-learn==1.8.0
+matplotlib==3.10.8
+pyaudio==0.2.14
